@@ -1,0 +1,30 @@
+[colors]
+
+# cursor-color and cursor-text
+cursor=c3d3de 1e1b2e
+
+background=262b33
+foreground=c3d3de
+
+selection-background=5b5184
+selection-foreground=1e1b2e
+
+## Normal/regular colors (color palette 0-7)
+regular0=3b3750  # black
+regular1=cf7b98  # red
+regular2=90a94b  # green
+regular3=6ebfc0  # yellow
+regular4=576ea6  # blue
+regular5=bc4f68  # magenta
+regular6=75a7d2  # cyan
+regular7=c3d3de  # white
+
+## Bright colors (color palette 8-15)
+bright0=a874ce   # bright black
+bright1=de90ab   # bright red
+bright2=bcdd61  # bright green
+bright3=87e9ea  # bright yellow
+bright4=8c9fcd  # bright blue
+bright5=e16c87  # bright magenta
+bright6=b7c9ef  # bright cyan
+bright7=d5e5f1  # bright white
